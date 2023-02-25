@@ -1103,7 +1103,7 @@ font-family: inherit;
 
 .modal-form-check:checked + .modal-form-check-desk::before {
     background-color: var(--navy-color);
-    background-image: url(../Images/images/hw-06/Vector-galka.svg) ;
+    background-image: url(../Images/images/hw-06/Vector-galka.svg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
     transition-property: background-color, background-image;
